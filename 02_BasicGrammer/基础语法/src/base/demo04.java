@@ -1,3 +1,5 @@
+package base;
+
 public class demo04 {
     public static void main(String[] args) {
         int i = 128;
